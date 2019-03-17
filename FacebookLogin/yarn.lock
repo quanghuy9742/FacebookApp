@@ -4890,6 +4890,24 @@ react-is@^16.8.1, react-is@^16.8.3, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.8.4.tgz#90f336a68c3a29a096a3d648ab80e87ec61482a2"
   integrity sha512-PVadd+WaUDOAciICm/J1waJaSvgq+4rHE/K70j0PFqKhkTBsPv/82UGQJNXAngz1fOQLLxI6z1sEDmJDQhCTAA==
 
+react-native-android-image-polyfill@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-android-image-polyfill/-/react-native-android-image-polyfill-1.0.0.tgz#f0b61bac0c6a91b8f8f81233ab1998613adf64ac"
+  integrity sha1-8LYbrAxqkbj4+BIzqxmYYTrfZKw=
+
+react-native-auto-height-image@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-auto-height-image/-/react-native-auto-height-image-1.1.0.tgz#509f441b4d5fc83ce9abfd5f459640f0273f5d01"
+  integrity sha512-vJH0NKyvzp9NtTNlcX/oEnKGgY2ZXW0VhQoz1TGNaxDHqpgtkTi645kS4ehjU95GV8h4pxIYYd/6SyuwXH2vrw==
+  dependencies:
+    prop-types "^15.5.8"
+    react-native-android-image-polyfill "^1.0.0"
+
+react-native-status-bar-height@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-status-bar-height/-/react-native-status-bar-height-2.3.0.tgz#97c358d07c22ef213a0cd16af885e090dc7618b5"
+  integrity sha512-C01Me1yAEaMfKMepOjOVKYj5o06Y1YQMBSmDK20TerP66CiNg+lcycacEjKfKC4ja6hatEC0xDf7ZNIV9hOjyg==
+
 react-native@0.59.1:
   version "0.59.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.59.1.tgz#3274dcc0f9558799bd41c8092acac2a79bd627ce"
