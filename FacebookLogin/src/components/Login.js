@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image, StyleSheet, StatusBar, Platform, Dimensions } from 'react-native';
+import { View, Image, StyleSheet, Dimensions } from 'react-native';
 import resolveAssetSource from 'resolveAssetSource';
 import LoginForm from "./LoginForm";
 
